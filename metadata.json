@@ -1,13 +1,12 @@
 {
-    "name": "tarifx",
-    "symbol": "tfx",
-    "description": "Description of your token",
-    "image": "https://images.unsplash.com/photo-1550531996-ff3dcede9477?q=80&w=1772&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "attributes": [
-      {
-        "trait_type": "Rarity",
-        "value": "Legendary"
-      }
-    ]
+  "name": "Official Xi Jinping",
+  "symbol": "XiJingPing",
+  "description": "The ultimate memecoin celebrating leadership and memes with a dash of AI. Backed by humor and the spirit of innovation!",
+  "image": "https://kozeke.github.io/cryptoSolana/ap23069161110805-4ab6d4a00e031d406a9046e38f71bb8a6c53fb0e.jpg",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ]
 }
-  
